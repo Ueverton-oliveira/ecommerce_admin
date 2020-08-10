@@ -1,0 +1,23 @@
+{
+  "name": "api-completa-rails",
+  "version": "1.0.0",
+  "description": "Tutorial **[One Bit Code](http://onebitcode.com)**! ===================",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leonardoscorza/api-completa-rails.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leonardoscorza/api-completa-rails/issues"
+  },
+  "homepage": "https://github.com/leonardoscorza/api-completa-rails#readme"
+}
